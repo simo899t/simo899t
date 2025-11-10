@@ -11,15 +11,16 @@ Also here is my <a href="https://simo899t.github.io" target="_blank">resumé</a>
 ## Index Of Projects By Categories -
 
 1.  [Python](#1-pyhton)
-2.  [Java](#2-java)
-3.  [Haskell](#3-haskell)
+3.  [Java](#2-java)
+4.  [Haskell](#3-haskell)
 
 # Let's Start!
 
 ## <a id="1-Python" href="#1-Python"><img src="https://github.com/simo800t/nomisCV.github.io/blob/main/assets/pythonLogo.png?raw=true" width="40" hieght="40" alt="Python logo"/></a> 1. Python
 ### `Projects in Python`
 
-:one: Generating optimal sorting networks for 1st semester exam - <a href="https://github.com/simo899t/sortnet.git" target="_blank">[Link]</a>
+:one: Generating optimal sorting networks for 1st semester exam - <a href="https://github.com/simo899t/sortnet.git" target="_blank">[Link]</a> 
+<br>
 :two: Making a working API (personal project) - <a href="https://github.com/simo899t/SundAdmin/tree/main" target="_blank">[Link]</a> 
 <br>
 
