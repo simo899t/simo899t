@@ -43,7 +43,8 @@ Also here is my <a href="https://simo899t.github.io" target="_blank">resumé</a>
 ### `Coursework`
 
 :one:  Calculus course (3rd semester) - <a href="https://github.com/simo899t/uni-other-projects/tree/main/math/calculus" target="_blank">[Link]</a>
-:one:  Linear Algebra course (3rd semester) - <a href="https://github.com/simo899t/uni-other-projects/tree/main/math/linear%20algrebra" target="_blank">[Link]</a>
+<br>
+:two:  Linear Algebra course (3rd semester) - <a href="https://github.com/simo899t/uni-other-projects/tree/main/math/linear%20algrebra" target="_blank">[Link]</a>
 
 
 <br>
