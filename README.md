@@ -39,7 +39,7 @@ Also here is my <a href="https://simo899t.github.io" target="_blank">resumé</a>
 
 <br>
 
-## <a id="4-courses" href="#3-Java"><img src="https://github.com/simo899t/simo899t.github.io/blob/main/assets/workSymbol.png?raw=true" width="40" hieght="40" alt="SDU logo"/></a> 4. Courses
+## <a id="4-courses" href="#3-Java"><img src="https://github.com/simo899t/simo899t.github.io/blob/main/assets/workLogo.png?raw=true" width="40" hieght="40" alt="workLogo"/></a> 4. Courses
 ### `Coursework`
 
 :one:  Calculus course (3rd semester) - <a href="https://github.com/simo899t/uni-other-projects/tree/main/math/calculus" target="_blank">[Link]</a>
