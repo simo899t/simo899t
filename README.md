@@ -8,13 +8,14 @@ Also here is my <a href="https://simo899t.github.io" target="_blank">resumé</a>
 
 
 
-## Index Of Projects By Categories -
+## Index Of Coursework & Projects By Categories -
 
 1.  [Python](#1-pyhton)
-3.  [Java](#2-java)
-4.  [Haskell](#3-haskell)
+2.  [Java](#2-java)
+3.  [Haskell](#3-haskell)
+4.  [Courses](#4-courses)
 
-# Let's Start!
+# Projcts!
 
 ## <a id="1-Python" href="#1-Python"><img src="https://github.com/simo800t/nomisCV.github.io/blob/main/assets/pythonLogo.png?raw=true" width="40" hieght="40" alt="Python logo"/></a> 1. Python
 ### `Projects in Python`
@@ -35,5 +36,14 @@ Also here is my <a href="https://simo899t.github.io" target="_blank">resumé</a>
 ### `Projects in Haskell`
 
 :one:  Domain Specific Language for snake-like Game (3rd semester exam): - <a href="https://github.com/simo899t/snakey" target="_blank">[Link]</a>
+
+<br>
+
+## <a id="4-courses" href="#3-Java"><img src="https://github.com/simo899t/simo899t.github.io/blob/main/assets/workSymbol.png?raw=true" width="40" hieght="40" alt="SDU logo"/></a> 4. Courses
+### `Coursework`
+
+:one:  Calculus course (3rd semester) - <a href="https://github.com/simo899t/uni-other-projects/tree/main/math/calculus" target="_blank">[Link]</a>
+:one:  Linear Algebra course (3rd semester) - <a href="https://github.com/simo899t/uni-other-projects/tree/main/math/linear%20algrebra" target="_blank">[Link]</a>
+
 
 <br>
