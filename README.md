@@ -34,6 +34,6 @@ Also here is my <a href="https://simo899t.github.io" target="_blank">resumé</a>
 ## <a id="3-haskell" href="#3-Java"><img src="https://github.com/simo800t/nomisCV.github.io/blob/main/assets/haskellLogo.svg.png?raw=true" width="40" hieght="40" alt="Haskell logo"/></a> 3. Haskell
 ### `Projects in Haskell`
 
-:one:  Domain Specific Language for snake-like Game (3rd semester exam): - <a href="???" target="_blank">[Link]</a>
+:one:  Domain Specific Language for snake-like Game (3rd semester exam): - <a href="https://github.com/simo899t/snakey" target="_blank">[Link]</a>
 
 <br>
