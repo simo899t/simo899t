@@ -29,14 +29,12 @@ Also here is my <a href="https://simo899t.github.io" target="_blank">resumé</a>
 ### `Projects in Java`
 
 :one: Pacman-like game project (2nd semseter exam) - <a href="https://github.com/simo899t/pacman.git" target="_blank">[Link]</a>
-
 <br>
 
 ## <a id="3-haskell" href="#3-Java"><img src="https://github.com/simo800t/nomisCV.github.io/blob/main/assets/haskellLogo.svg.png?raw=true" width="40" hieght="40" alt="Haskell logo"/></a> 3. Haskell
 ### `Projects in Haskell`
 
 :one:  Domain Specific Language for snake-like Game (3rd semester exam): - <a href="https://github.com/simo899t/snakey" target="_blank">[Link]</a>
-
 <br>
 
 ## <a id="4-courses" href="#3-Java"><img src="https://github.com/simo899t/simo899t.github.io/blob/main/assets/workLogo.png?raw=true" width="40" hieght="40" alt="workLogo"/></a> 4. Courses
