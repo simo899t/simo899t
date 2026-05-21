@@ -4,9 +4,9 @@
 
 This site is a collection of my programming projects from UNI, ranging from small utilities to larger applications. 
 
-While you are here, checkout this <a href="https://simo899t.github.io/typstnique" target="_blank">typst syntax game</a> i made
+While you are here, checkout this <a href="https://simo899t.github.io/typstnique" target="_blank">typst syntax game</a> i made.
 
-Also here is my 
+Also here is my <a href="https://simo899t.github.io" target="_blank">resume</a>.
 
 
 
