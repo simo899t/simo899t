@@ -26,7 +26,7 @@ Also here is my <a href="https://simo899t.github.io" target="_blank">resume</a>.
 <br>
 :two: C3Paw: Classifying cats and dogs (4th semester exam project) - <a href="https://github.com/simo899t/cat_dog_classification" target="_blank">[Link]</a> 
 <br>
-:tree: Path optimization & CNN optimization (4th semester exam project) - <a href="https://github.com/simo899t/optimization_assignment_1" target="_blank">[Link]</a> 
+:three: Path optimization & CNN optimization (4th semester exam project) - <a href="https://github.com/simo899t/optimization_assignment_1" target="_blank">[Link]</a> 
 <br>
 :four: Mood2-D2: Classifying emotions (4th semester exam project) - <a href="https://github.com/simo899t/emotion_classifier" target="_blank">[Link]</a> 
 <br>
