@@ -24,7 +24,15 @@ Also here is my <a href="https://simo899t.github.io" target="_blank">resume</a>.
 
 :one: Generating optimal sorting networks for lists (1st semester exam) - <a href="https://github.com/simo899t/sortnet.git" target="_blank">[Link]</a> 
 <br>
-:two: Making myfirst API (personal project) - <a href="https://github.com/simo899t/SundAdmin/tree/main" target="_blank">[Link]</a> 
+:two: C3Paw: Classifying cats and dogs (4th semester exam project) - <a href="https://github.com/simo899t/cat_dog_classification" target="_blank">[Link]</a> 
+<br>
+:tree: Path optimization & CNN optimization (4th semester exam project) - <a href="https://github.com/simo899t/optimization_assignment_1" target="_blank">[Link]</a> 
+<br>
+:four: Mood2-D2: Classifying emotions (4th semester exam project) - <a href="https://github.com/simo899t/emotion_classifier" target="_blank">[Link]</a> 
+<br>
+:five: Simplex Enviroment Search & roar-net-api solver (4th semester exam project) - <a href="https://github.com/simo899t/optimization_assignment_2" target="_blank">[Link]</a> 
+<br>
+:six: Making myfirst API (personal project) - <a href="https://github.com/simo899t/SundAdmin/tree/main" target="_blank">[Link]</a> 
 <br>
 
 ## <a id="2-Java" href="#2-Java"><img src="https://github.com/simo800t/nomisCV.github.io/blob/main/assets/javaLogo.png?raw=true" width="40" hieght="40" alt="Java logo"/></a> 2. Java
